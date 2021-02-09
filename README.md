@@ -1,2 +1,4 @@
-# website
- Proyecto creado para Akardoo Devcamp, lenguajes usados: html & css
+### Website
+ * Project created for Akardoo Devcamp, languages used: html & css
+
+> Website made by vCamilo ✨ | 2021 Akardoo DevCamp
