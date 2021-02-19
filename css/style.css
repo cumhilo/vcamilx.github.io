@@ -307,9 +307,11 @@ svg {
 @keyframes fade {
     0% {
         opacity: 0%;
-    } 50% {
+    }
+    50% {
         opacity: 50%;
-    } 100% {
+    }
+    100% {
         opacity: 100%;
     }
 }
@@ -317,9 +319,11 @@ svg {
 @keyframes rotate {
     0% {
         transform: rotate(0deg);
-    } 50% {
+    }
+    50% {
         transform: rotate(360deg);
-    } 100% {
+    }
+    100% {
         transform: rotate(360deg);
     }
 }
@@ -327,9 +331,11 @@ svg {
 @keyframes size {
     0% {
         size: 20%;
-    } 50% {
+    }
+    50% {
         size: 80%;
-    } 100% {
+    }
+    100% {
         size: 100%;
     }
 }
