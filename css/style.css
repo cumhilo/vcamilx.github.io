@@ -306,7 +306,7 @@ svg {
 
 @keyframes fade {
     0% {
-        opacity: 0%;
+        opacity: 5%;
     }
     100% {
         opacity: 100%;
