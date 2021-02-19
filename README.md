@@ -16,7 +16,4 @@ Want to see the website?</i>
 <i>Project created for <b>Akardoo Devcamp</b>, languages used: html & css</i>
 <br>
 <br>
-<a href="https://www.codacy.com/gh/vCamilx/website/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vCamilx/website&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/e026a01c4c3c456794d715dd5e4c0f7b"/></a>
-<br>
-<br>
 <i><b>Website made by vCamilo ✨ | 2021 Akardoo DevCamp</b></i>
