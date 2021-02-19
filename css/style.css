@@ -127,7 +127,7 @@ a {
 }
 
 .shadow {
-    box-shadow: 1px 4px 6px rgba(50, 50, 93, .11), 1px 1px 3px rgba(0, 0, 0, .08);
+    box-shadow: 1px 4px 6px rgba(50, 50, 93, 0.11), 1px 1px 3px rgba(0, 0, 0, 0.08);
 }
 
 ol,
@@ -213,17 +213,17 @@ svg {
     font-weight: 600;
     line-height: 1.5;
     display: inline-block;
-    padding: .625rem 1.25rem;
+    padding: 0.625rem 1.25rem;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     text-align: center;
     vertical-align: middle;
     white-space: nowrap;
     border: 1px solid transparent;
-    border-radius: .375rem;
+    border-radius: 0.375rem;
 }
 
 .btn-github {
@@ -307,11 +307,9 @@ svg {
 @keyframes fade {
     0% {
         opacity: 0%;
-    }
-    50% {
+    } 50% {
         opacity: 50%;
-    }
-    100% {
+    } 100% {
         opacity: 100%;
     }
 }
@@ -319,11 +317,9 @@ svg {
 @keyframes rotate {
     0% {
         transform: rotate(0deg);
-    }
-    50% {
+    } 50% {
         transform: rotate(360deg);
-    }
-    100% {
+    } 100% {
         transform: rotate(360deg);
     }
 }
@@ -331,11 +327,9 @@ svg {
 @keyframes size {
     0% {
         size: 20%;
-    }
-    50% {
+    } 50% {
         size: 80%;
-    }
-    100% {
+    } 100% {
         size: 100%;
     }
 }
