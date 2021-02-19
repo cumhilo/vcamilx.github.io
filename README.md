@@ -1,4 +1,4 @@
-<h1>Website | Akardoo DevCamp</h1>
+<h1>Website | Akardoo DevCamp</h1> [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e026a01c4c3c456794d715dd5e4c0f7b)](https://www.codacy.com/gh/vCamilx/website/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vCamilx/website&amp;utm_campaign=Badge_Grade)
 
  <i>Initial project of <b>Akardoo Devcamp</b>, web page created in html & css mainly is a website with my information and/or contact.
  Want to see the website?</i>
