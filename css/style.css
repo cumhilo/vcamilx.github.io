@@ -1,8 +1,6 @@
 /* stylelint-disable indentation */
 
-*,
-*::before,
-*::after {
+*, *::before, *::after {
     box-sizing: border-box;
 }
 
@@ -130,8 +128,7 @@ a {
     box-shadow: 1px 4px 6px rgba(50, 50, 93, 0.11), 1px 1px 3px rgba(0, 0, 0, 0.08);
 }
 
-ol,
-ul {
+ol, ul {
     list-style: none;
 }
 
@@ -152,12 +149,7 @@ p {
     flex-wrap: wrap;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: inherit;
     font-weight: 600;
     line-height: 1.5;
@@ -198,14 +190,14 @@ svg {
     color: #fff;
     border-color: #5e72e4;
     background-color: #5e72e4;
-    box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+    box-shadow: 1px 4px 6px rgba(50, 50, 93, 0.11), 1px 1px 3px rgba(0, 0, 0, 0.08);
 }
 
 .btn-secondary {
     color: #212529;
     border-color: #f7fafc;
     background-color: #f7fafc;
-    box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+    box-shadow: 1px 4px 6px rgba(50, 50, 93, 0.11), 1px 1px 3px rgba(0, 0, 0, 0.08);
 }
 
 .btn-contact {
@@ -305,34 +297,18 @@ svg {
 }
 
 @keyframes fade {
-    0% {
-        opacity: 5%;
-    }
-    100% {
-        opacity: 100%;
-    }
+    0% { opacity: 5%; }
+    100% { opacity: 100%; }
 }
 
 @keyframes rotate {
-    0% {
-        transform: rotate(0deg);
-    }
-    50% {
-        transform: rotate(360deg);
-    }
-    100% {
-        transform: rotate(360deg);
-    }
+    0% { transform: rotate(0deg); }
+    50% { transform: rotate(360deg); }
+    100% { transform: rotate(360deg); }
 }
 
 @keyframes size {
-    0% {
-        size: 20%;
-    }
-    50% {
-        size: 80%;
-    }
-    100% {
-        size: 100%;
-    }
+    0% { size: 20%; }
+    50% { size: 80%; }
+    100% { size: 100%; }
 }
