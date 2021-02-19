@@ -1,6 +1,8 @@
 /* stylelint-disable indentation */
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
 }
 
@@ -128,7 +130,8 @@ a {
     box-shadow: 1px 4px 6px rgba(50, 50, 93, 0.11), 1px 1px 3px rgba(0, 0, 0, 0.08);
 }
 
-ol, ul {
+ol,
+ul {
     list-style: none;
 }
 
@@ -149,7 +152,12 @@ p {
     flex-wrap: wrap;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: inherit;
     font-weight: 600;
     line-height: 1.5;
