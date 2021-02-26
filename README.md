@@ -7,7 +7,7 @@
 Want to see the website?</i>
 <br>
 <br>
-<a href="https://vcamilx.github.io/website/index.html" target="_BLANK">
+<a href="https://vcamilx.github.io/" target="_BLANK">
 <i>Click on my head to be redirected directly to the site. </i>
 <img src="https://minotar.net/helm/vCamilo/16.png"></img>
 </a>
